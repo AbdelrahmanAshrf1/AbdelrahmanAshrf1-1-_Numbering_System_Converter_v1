@@ -1,0 +1,4 @@
+﻿  Solution.cpp
+D:\Programming\3)_Projects\1)_Numbering_System_Converter_v1\Solution\Solution.cpp(144,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\3)_Projects\1)_Numbering_System_Converter_v1\Solution\Solution.cpp(308,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Solution.vcxproj -> D:\Programming\3)_Projects\1)_Numbering_System_Converter_v1\Solution\x64\Debug\Solution.exe

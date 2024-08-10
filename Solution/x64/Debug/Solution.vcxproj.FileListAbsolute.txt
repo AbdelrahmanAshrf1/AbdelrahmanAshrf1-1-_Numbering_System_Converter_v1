@@ -1,0 +1,4 @@
+D:\Programming\2)_Problem_Solving\2)_Other\3)_Numbering_System\Solution\x64\Debug\Solution.exe
+D:\Programming\3)_Projects\1)_Microsof_Calculator\Solution\x64\Debug\Solution.exe
+D:\Programming\3)_Projects\1)_Numbering_System_Converter\Solution\x64\Debug\Solution.exe
+D:\Programming\3)_Projects\1)_Numbering_System_Converter_v1\Solution\x64\Debug\Solution.exe
